@@ -10,11 +10,6 @@ This repository contains the dataset configurations, evaluation scripts, and sup
 - **Processing Pipelines**: Implementation details for COLMAP, Neuralangelo, 3DGS, and VGGT.
 - **Evaluation Tools**: Scripts for C2C distance analysis and geometric alignment.
 
-## 🏰 Studied Sites
-- Schloss Münster (M)
-- Burg Lüdinghausen (L)
-- Schloss Raesfeld (R)
-
 ## ✉️ Contact
 - **Author**: Ting-Jia Guo
 - **Email**: [ting-jia.guo@uni-muenster.de]
