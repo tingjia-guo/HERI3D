@@ -3,7 +3,6 @@
 This repository contains the dataset configurations, evaluation scripts, and supplementary materials for the Master's Thesis: **"HERI3D: A Comparative Analysis of Traditional and Deep Learning-Based 3D Reconstruction Techniques Using UAV Imagery for Cultural Heritage"**.
 
 ## 🚀 Status: Coming Soon
-**The contents of this repository are currently being organized and will be fully released.**
 
 ### Proposed Contents:
 - **Dataset Configurations**: Tilt-aware and Geometry-aware sampling parameters.
